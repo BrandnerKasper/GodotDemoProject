@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rules-of-nature.mp3-b31373f970dcea5714c8f0c85e2ab096.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/rules-of-nature.mp3"
+dest_files=[ "res://.import/rules-of-nature.mp3-b31373f970dcea5714c8f0c85e2ab096.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
